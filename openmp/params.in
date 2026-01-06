@@ -1,0 +1,9 @@
+&parametros
+  L = 1000,
+  rho = 0.3,
+  max_steps = 500,
+  M = 20,
+  eps = 1.0e-6,
+  write_output = .true.
+/
+
