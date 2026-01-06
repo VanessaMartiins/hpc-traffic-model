@@ -1,1 +1,4 @@
-# Resultados e Gráficos
+## 📊 Resultados
+
+### 📈 Speedup Paralelo
+![Speedup](docs/speedup.png)
