@@ -68,6 +68,12 @@ hpc-traffic-model/
 
 ✔️ Análise de speedup e eficiência paralela
 
+## 🧩 Versões Disponíveis
+
+O repositório inclui:
+- `optimized/`: versão serial com otimizações manuais de desempenho.
+- `openmp/`: versão paralelizada com OpenMP e execução via SLURM.
+
 📊 Resultados e Análise de Desempenho
 
 Os testes foram realizados para diferentes tamanhos de grade e números de threads.
